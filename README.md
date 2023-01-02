@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-I am a student at the University of Oslo (UiO), and hold a master's degree in Computer Science.
+I am a PhD student at the University of Oslo (UiO), and hold a master's degree in Computer Science.
 My interests are within machine learning/deep learning, mathematical optimization, and complexity theory.
 
 My repositories are for projects and assignments I have done for various courses I have taken at UiO.
