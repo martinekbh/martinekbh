@@ -5,7 +5,7 @@ My interests are within machine learning/deep learning, mathematical optimizatio
 
 My repositories are for projects and assignments I have done for various courses I have taken at UiO.
 
-I mostly use Python, MATLAB, and R, but I have also done projects in Tensorflow and Kaggle.
+I mostly use Pytorch and Python, but I have also done projects in Tensorflow, MATLAB, and R.
 Other languages include Java and C. 
 
 <!--
