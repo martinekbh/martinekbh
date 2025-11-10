@@ -1,12 +1,7 @@
 ### Hi there 👋
 
 I am a PhD student at the University of Oslo (UiO), and hold a master's degree in Computer Science.
-My interests are within machine learning/deep learning, mathematical optimization, and complexity theory.
-
-My repositories are for projects and assignments I have done for various courses I have taken at UiO.
-
-I mostly use Pytorch and Python, but I have also done projects in Tensorflow, MATLAB, and R.
-Other languages include Java and C. 
+My interests are within computer vision, ML, mathematical optimization, and complexity theory.
 
 <!--
 **martinekbh/martinekbh** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
